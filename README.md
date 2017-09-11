@@ -11,7 +11,7 @@ Plataforma de negociação de mercadorias criada para a conclusão de um process
 ### Frameworks e Bibliotecas utilizadas
 - Laravel 
 - Bootstrap
-- Jquery
+- jQuery
 - Parsley 
 
 ### Gerenciador de Banco de Dados
