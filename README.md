@@ -8,7 +8,7 @@ Plataforma de negociação de mercadorias criada para a conclusão de um process
 - PHP
 - SQL
 
-### Frameworks e Bibliotecas utilizadas
+### Frameworks e bibliotecas utilizadas
 - Laravel 
 - Bootstrap
 - jQuery
