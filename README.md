@@ -14,5 +14,4 @@ Plataforma de negociação de mercadorias criada para a conclusão de um process
 - jQuery
 - Parsley 
 
-### Gerenciador de Banco de Dados
-- phpMyAdmin
+
